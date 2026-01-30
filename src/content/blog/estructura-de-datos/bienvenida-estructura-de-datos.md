@@ -4,6 +4,8 @@ description: 'Bienvenida al curso de Estructuras de Datos'
 pubDate: 'Jan 26 2026'
 heroImage: '../../../assets/blog-placeholder-3.jpg'
 category: 'estructura-de-datos'
+tags: []
+published: true
 ---
 
 ## 🎯 ¿De qué trata el curso?
